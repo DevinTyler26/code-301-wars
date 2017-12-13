@@ -21,3 +21,5 @@ function insertDash(num) {
   }
   return newNum;
 }
+
+insertDash(454793);
